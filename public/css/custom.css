@@ -1,0 +1,22 @@
+
+
+body {
+    background-image: url('img/background-supermarket.jpg');
+    background-size: cover;
+    color: #FFFFFF;
+}
+#wrapper {
+    position: relative;
+    float: none;
+    width: 100vw;
+    min-height: 100vh;
+}
+.box-dark {
+    background-color: rgba(0, 0, 0, 0.60);
+    padding: 2em;
+}
+.center-vertically {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
